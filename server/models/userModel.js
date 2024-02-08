@@ -17,6 +17,8 @@ const userSchema= new Schema({
         
     }
 
+   
+
 })
 
 //static signup
